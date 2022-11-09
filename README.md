@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Julián Escobar</h1>
-<h3 align="center">A Mechanical Engineer and passionate 👨‍💻 fullstack developer from Colomnbia</h3>
+<h3 align="center"> Mechanical Engineer and passionate 👨‍💻 fullstack developer from Colombia</h3>
 
 - 🔭 I’m currently working on [Garage Store](https://github.com/julianescobarco/Venta_De_Garaje)
 
