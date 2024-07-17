@@ -3,15 +3,15 @@
 
 - 🔭 I’m currently working on [Garage Store](https://github.com/julianescobarco/Venta_De_Garaje)
 
-- 🌱 I’m currently learning *Javascript, MERN stack, PL/SQL, Java**
+- 🌱 I’m currently learning *AWS, Bash & Jenkins**
 
 - 👯 I’m looking to collaborate on [Tourist routes Valle del Cauca](https://github.com/julianescobarco/Rutas_turisticas_Valle_del_Cauca)
 
 - 👨‍💻 All of my projects are available at [https://github.com/julianescobarco/](https://github.com/julianescobarco/)
 
-- 💬 Ask me about **Java, Python, SQL**
+- 💬 Ask me about **Docker, Kubernetes, Azure DevOps**
 
-- 📫 How to reach me **julian.andres.escobar@correounivalle.edu.co**
+- 📫 How to reach me **mechanicalengineerjescobar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
