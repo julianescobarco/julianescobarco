@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/julianescobarco/](https://github.com/julianescobarco/)
 
-- 💬 Ask me about **Docker, Kubernetes, AWS; GCP; Azure DevOps, Terraform, Datadog, Prometeus, Grafana**
+- 💬 Ask me about **Docker, Kubernetes, AWS, GCP; Azure DevOps, Terraform, Datadog, Prometeus, Grafana**
 
 - 📫 How to reach me **julianescobar.devops@gmail.com**
 
